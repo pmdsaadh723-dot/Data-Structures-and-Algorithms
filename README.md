@@ -45,6 +45,3 @@
 - Improve problem-solving.
 
 ---
----
-
-### Happy Coding! 🚀
