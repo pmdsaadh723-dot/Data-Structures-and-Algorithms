@@ -9,13 +9,12 @@
 
 ## 📊 Progress
 
+🟢🟢⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+
 | Track | Progress |
 |-------|----------|
 | 🟢 Array I | ✅ 1 / 35 |
 | 🟡 Array II | ✅ 2 / 35 |
-
----
-![2/35](https://progress-bar.xyz/2/?scale=35&width=200&color=22c55e&suffix=%20/%2035)
 
 ---
 
